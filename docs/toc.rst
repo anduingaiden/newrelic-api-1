@@ -11,6 +11,7 @@ Table of Contents
    ref/alert_policies
    ref/applications
    ref/application_hosts
+   ref/application_deployments
    ref/application_instances
    ref/browser_applications
    ref/components

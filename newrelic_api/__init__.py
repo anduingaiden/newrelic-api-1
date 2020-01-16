@@ -6,6 +6,7 @@ from .alert_conditions import AlertConditions
 from .alert_conditions_infra import AlertConditionsInfra
 from .alert_conditions_nrql import AlertConditionsNRQL
 from .applications import Applications
+from .application_deployments import ApplicationDeployments
 from .application_hosts import ApplicationHosts
 from .application_instances import ApplicationInstances
 from .components import Components
